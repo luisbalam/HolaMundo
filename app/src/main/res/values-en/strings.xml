@@ -3,4 +3,5 @@
     <string name="app_name">HelloWorld!</string>
     <string name="titulo_app">Hello World Luis Balam</string>
     <string name="texto">Text for my first app</string>
+    <string name="texto2">Text for my first app</string>
 </resources>
